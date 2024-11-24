@@ -1,3 +1,4 @@
+// 2. Write a program to find average of 3 integers. Input variables must be declared as the integer variables. 
 #include<stdio.h>
 using namespace std;
 

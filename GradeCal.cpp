@@ -1,5 +1,5 @@
+// 6. Write a program to calculate the marks obtained by any student in 5 different subject.
 #include<stdio.h>
-
 int main(){
 	int ben,eng,math,phy,che;
 	printf("Enter The Marks of 5 Subject....\n");

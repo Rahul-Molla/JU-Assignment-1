@@ -1,3 +1,5 @@
+// 7. Case-1: Write a program to swap the values of two variables
+//Using Third Variable
 #include<stdio.h>
 int main(){
 	int a,b,temp;

@@ -1,3 +1,4 @@
+// 9. Write a program to test whether a given number is even or odd
 #include<stdio.h>
 int main(){
 	int num;
